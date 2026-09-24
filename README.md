@@ -1,6 +1,3 @@
-# used-car-price-analysis
-Machine learning analysis of the factors that influence used car prices using the CRISP-DM framework.
-
 # What Drives the Price of a Used Car?
 
 ## Used Car Price Analysis
@@ -17,4 +14,6 @@ The complete analysis can be found in:
 
 [practical_application_II.ipynb](practical_application_II.ipynb)
 
-The analysis uses the provided used vehicle dataset containing approximately 426,000 vehicle listings. The dataset is not included in this repository due to its file size.**The analysis uses the provided used vehicle dataset containing approximately 426,000 vehicle listings. The dataset is not included in this repository due to its file size.**
+## Data
+
+The analysis uses the provided used vehicle dataset containing approximately 426,000 vehicle listings. The dataset is not included in this repository due to its file size.
