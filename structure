@@ -1,0 +1,11 @@
+used-car-price-analysis/
+│
+├── README.md
+├── practical_application_II.ipynb
+│
+├── data/
+│   └── vehicles.csv
+│
+└── images/
+    ├── kurt.jpeg
+    └── crisp.png
