@@ -16,3 +16,5 @@ The goal is to identify the vehicle characteristics that are most strongly assoc
 The complete analysis can be found in:
 
 [practical_application_II.ipynb](practical_application_II.ipynb)
+
+The analysis uses the provided used vehicle dataset containing approximately 426,000 vehicle listings. The dataset is not included in this repository due to its file size.**The analysis uses the provided used vehicle dataset containing approximately 426,000 vehicle listings. The dataset is not included in this repository due to its file size.**
